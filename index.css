@@ -6,6 +6,10 @@
     color: #ffffff;
 }
 
+body {
+    background: #3D3D3D;
+}
+
 h1 {
     font-size: 28px;
     font-weight: 800;
