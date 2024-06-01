@@ -1,2 +1,2 @@
 # scrimba_unit_conversion
-Scrimba Solo Project - Building a unit converter
+Scrimba Solo Project 4 - Unit Converter
